@@ -1,0 +1,28 @@
+{
+    "01": [
+        {
+            "status": "CAKAHIM - 01",
+            "nama": "Bagas Setyo Wicaksono",
+            "jurusan": "IF'18", 
+            "visi": "Menjadi Jembatan Karya dalam Kebersamaan",
+            "misi": ["Aktualisasi wiyata yang terus berkembang", "Bangun rumah aspirasi berlandaskan nuraga", "Cipta karya penuh pancarona"],
+            "foto": "bagas.png"
+        }
+    ],
+    "02": [
+        {
+            "status": "CAKAHIM - 02",
+            "nama": "Naufal Alim Wahib",
+            "jurusan": "STI'18", 
+            "visi": "Membentuk HMIF yang menjunjung sifat tanggung jawab dan profesionalisme",
+            "misi": [
+                "Menciptakan HMIF yang dapat beradaptasi sesuai dengan situasi dan kondisi apapun", 
+                "Menjadi wadah yang dapat mengakomodasi kebutuhan dan mengembangkan potensi anggotanya", 
+                "Menciptakan lingkungan yang nyaman dengan menerapkan prinsip – prinsip profesionalisme", 
+                "Menumbuhkan rasa kepemilikan terhadap himpunan terhadap seluruh anggotanya", 
+                "Menciptakan karya sebagai bentuk aktualisasi diri dan kontribusi terhadap perkembangan Teknologi Informasi di dalam dan luar ITB"
+            ],
+            "foto": "alim.jpg"
+        }
+    ]
+}
